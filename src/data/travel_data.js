@@ -1,0 +1,22 @@
+export const travels = [
+    { date: <>2025.10.08-<br/>2025.10.12</>, content: <><a href="https://www.ieeeismar.net/2025" target="_blank" className="fw-bold text-primary text-decoration-none">ISMAR 2025</a>. 2 TVCG Papers, 2 Posters & 1 Workshop.</> },
+    { date: "2025.10.12", content: <><a href="https://www.ieeeismar.net/2025/contribute/workshop-papers/KAMRR/" target="_blank" className="fw-bold text-primary text-decoration-none">KAMRR’25</a>. Invited Speaker.</> },
+    { date: <>2025.09.26-<br/>2025.10.01</>, content: <><a href="https://uist.acm.org/2025/" target="_blank" className="fw-bold text-primary text-decoration-none">UIST 2025</a> & Pre-UIST. 3 Demos.</> },
+    { date: "2025.09.26", content: <><a href="https://www.apmar2025.site/keynote" target="_blank" className="fw-bold text-primary text-decoration-none">APMAR 2025</a>. Keynote Speaker.</> },
+    { date: <>2025.08.10-<br/>2025.08.16</>, content: <><a href="https://robotelite.sdu.dk/program-for-international-professors/" target="_blank" className="fw-bold text-primary text-decoration-none">International Elite Summer School in Robotics & Entrepreneurship</a>. Invited Speaker.</> },
+    { date: "2025.07.12", content: <><a href="http://issisglobal.org/current.php" target="_blank" className="fw-bold text-primary text-decoration-none">KSSiS Symposium</a>. Invited Speaker.</> },
+    { date: <>2025.07.07-<br/>2025.07.11</>, content: <><a href="https://2025.worldhaptics.org/" target="_blank" className="fw-bold text-primary text-decoration-none">WHC</a> & <a href="https://haptics.or.kr/conference/2025/home.php" target="_blank" className="fw-bold text-primary text-decoration-none">KHC</a> 2025. 1 Paper & 1 Workshop Paper.</> },
+    { date: <>2025.07.02-<br/>2025.07.04</>, content: <><a href="https://www.kiise.or.kr/conference/kcc/2025/" target="_blank" className="fw-bold text-primary text-decoration-none">KCC 2025</a>. 2 Papers & 2 Workshop.</> },
+    { date: "2025.06.26", content: <><a href="https://www.samsungsgr.com/en/" target="_blank" className="fw-bold text-primary text-decoration-none">Samsung Global Research CX Forum</a>. Invited Speaker.</> },
+    { date: <>2025.06.18-<br/>2025.06.20</>, content: <><a href="https://meta.kaist.ac.kr/p/kaistnyu25" target="_blank" className="fw-bold text-primary text-decoration-none">ISMAX2025@NYU</a>. Invited Speaker.</> },
+    { date: <>2025.04.26-<br/>2025.05.01</>, content: <><strong className="fw-bold text-dark">CHI 2025</strong>. 4 Full Papers, 1 Workshop.</> },
+    { date: "2025.03.27", content: <><strong className="fw-bold text-dark">GIST AI Graduate School</strong>. Invited Speaker.</> },
+    { date: "2025.02.17", content: <><a href="https://haptics.or.kr/symposium/2025/home.php" target="_blank" className="fw-bold text-primary text-decoration-none">3rd Korea Haptics Society PI Symposium</a>. Guest Speaker.</> },
+    { date: "2024.12.20", content: <><a href="https://www.kiise.or.kr/conference/main/getContent.do?CC=KSC&CS=2024&PARENT_ID=011700&content_no=2167" target="_blank" className="fw-bold text-primary text-decoration-none">KSC2024 CG&I Society Workshop</a>. Guest Speaker.</> },
+    { date: "2024.12.19", content: <><strong className="fw-bold text-dark">Kyung Hee University (Graduate School of Metaverse)</strong>. Invited Speaker.</> },
+    { date: "2024.11.01", content: <><a href="https://youtu.be/UdGr2wjf1oU" target="_blank" className="fw-bold text-primary text-decoration-none">Microsoft Research</a>. Invited Speaker.</> },
+    { date: "2024.10.30", content: <><a href="https://sites.google.com/nyu.edu/hci-seminar/home" target="_blank" className="fw-bold text-primary text-decoration-none">NYU HCI Seminar</a>. Invited Speaker.</> },
+    { date: <>2024.10.28-<br/>2024.10.29</>, content: <><a href="https://meta.kaist.ac.kr/p/kaistnyu24" target="_blank" className="fw-bold text-primary text-decoration-none">KAIST-NYU Workshop on MetaMuseum</a>.</> },
+    { date: <>2024.10.20-<br/>2024.10.26</>, content: <><a href="https://ieeeismar.org/schedule/" target="_blank" className="fw-bold text-primary text-decoration-none">ISMAR 2024</a>. 1 Conference Paper & 1 Workshop Paper.</> },
+    { date: <>2024.10.04-<br/>2024.10.09</>, content: <><a href="https://www.ubicomp.org/ubicomp-iswc-2024/conference-program/" target="_blank" className="fw-bold text-primary text-decoration-none">UbiComp 2024</a>. 2 IMWUT Papers.</> }
+];
