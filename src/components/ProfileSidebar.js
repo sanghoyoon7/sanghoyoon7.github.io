@@ -58,7 +58,7 @@ export default function ProfileSidebar() {
                 <div className="d-flex flex-column align-items-center mt-2">
                     
                     <Link href="https://hcitech.org" target="_blank" className="mb-3">
-                        <img src="/img/icon/Logo_Dark.png" alt="HCI Tech Lab" className="img-fluid" style={{ maxWidth: '160px' }} />
+                        <img src="/img/icon/Logo_White.png" alt="HCI Tech Lab" className="img-fluid" style={{ maxWidth: '160px' }} />
                     </Link>
 
                     <div className="d-flex justify-content-center gap-3">
