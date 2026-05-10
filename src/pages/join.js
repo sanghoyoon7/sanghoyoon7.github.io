@@ -44,7 +44,7 @@ export default function Join() {
                         <div className="p-3 mb-5 d-flex align-items-center gap-3 flex-wrap shadow-sm" style={{ backgroundColor: '#f4f8fc', border: '1px solid #d3e2f2', borderRadius: '8px', color: '#003264', fontSize: '0.95rem' }}>
                             <strong>Ready to apply?</strong> 
                             <a href="mailto:sangho@kaist.ac.kr" className="btn btn-primary btn-sm fw-bold px-3">Email</a>
-                            <Link href="https://hcitech.org/recruiting_graduate" target="_blank" className="btn btn-outline-primary btn-sm fw-bold bg-white px-3">
+                            <Link href="https://hcitech.org/contact" target="_blank" className="btn btn-outline-primary btn-sm fw-bold bg-white px-3">
                                 View Lab Recruiting Website
                             </Link>
                         </div>
