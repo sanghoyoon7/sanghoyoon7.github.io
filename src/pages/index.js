@@ -59,7 +59,7 @@ export default function Home() {
                                 </div>
                                 
                                 <div className="d-flex flex-column">
-                                    {travels.slice(0, 12).map((item, index) => (
+                                    {travels.slice(0, 10).map((item, index) => (
                                         <div key={index} className="py-3 border-bottom" style={{ borderColor: '#f0f0f0' }}>
                                             <div className="row align-items-start">
                                                 <div className="col-md-3 col-lg-2 mb-1 mb-md-0">
@@ -84,7 +84,7 @@ export default function Home() {
                                 </Link>
                             </div>
                             <ul className="list-unstyled" style={{ borderLeft: '2px solid #e9ecef', marginLeft: '10px', paddingLeft: '20px' }}>
-                                {news.slice(0, 12).map((item, index) => (
+                                {news.slice(0, 10).map((item, index) => (
                                     <li key={index} className="mb-4 position-relative">
                                         <div style={{ position: 'absolute', left: '-27px', top: '5px', width: '12px', height: '12px', borderRadius: '50%', backgroundColor: '#1260de' }}></div>
                                         <div className="text-muted small fw-bold mb-1">{item.date}</div>
