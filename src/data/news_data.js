@@ -1,6 +1,7 @@
 export const news = [
-    { date: "2026.05.06", content: <>Serving as an Technical Program Committee (TPC) for <a href="https://www.ubicomp.org/ubicomp-iswc-2026/" target="_blank" className="text-decoration-none">ISWC 2026</a>.</> },
+    { date: "2026.05.06", content: <><a href="https://hcitech.org/internship/summer-2026" target="_blank" className="text-decoration-none">I am looking for undergraduate research interns for the summer</a>.</> },
     { date: "2026.05.06", content: <>Serving as an International Program Committee (IPC) for <a href="https://vrst.acm.org/vrst2026/" target="_blank" className="text-decoration-none">VRST 2026</a>.</> },
+    { date: "2026.04.12", content: <>Serving as an Technical Program Committee (TPC) for <a href="https://www.ubicomp.org/ubicomp-iswc-2026/" target="_blank" className="text-decoration-none">ISWC 2026</a>.</> },
     { date: "2026.02.04", content: <>Serving as an International Program Committee (IPC) for <a href="https://www.ieeeismar.net/2026/" target="_blank" className="text-decoration-none">ISMAR 2026</a>.</> },
     { date: "2026.01.11", content: <>Serving as an AC for <a href="https://dis.acm.org/2026/subcommittee/" target="_blank" className="text-decoration-none">DIS 2026</a>.</> },
     { date: "2025.12.01", content: <>2 co-organizing workshop proposals have been accepted to VR 2026 (Multimodal Heritage) and CHI 2026 (AI Haptics).</> },
