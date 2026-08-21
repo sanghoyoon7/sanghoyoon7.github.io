@@ -27,9 +27,9 @@ export default function ProfileSidebar() {
                         Graduate School of Culture Technology, KAIST
                     </Link>
                     <br />
-                    <Link href="https://cs.kaist.ac.kr" target="_blank" className="text-decoration-none fw-bold" style={{ color: '#1260de' }}>
+                    {/*<Link href="https://cs.kaist.ac.kr" target="_blank" className="text-decoration-none fw-bold" style={{ color: '#1260de' }}>
                         School of Computing, KAIST
-                    </Link>
+                    </Link>*/}
                 </div>
 
                 {/* --- Divider --- */}
