@@ -1,9 +1,9 @@
 export const news = [
     { date: "2026.08.17", content: <>Received an unrestricted gift from Google to support research on Precise Low Power Interactions On-the-Go!</> },
-    { date: "2026.08.12", content: <>Two papers are accepted to <a href="https://uist2026.acm.org/" target="_blank" className="text-decoration-none">UIST 2026</a>.</> },
+    { date: "2026.08.12", content: <>Two papers are accepted to <a href="https://uist.acm.org/2026/" target="_blank" className="text-decoration-none">UIST 2026</a>.</> },
     { date: "2026.08.05", content: <>Four papers are accepted to <a href="https://www.ieeeismar.net/2026/" target="_blank" className="text-decoration-none">ISMAR 2026</a>.</> },
-    { date: "2026.07.15", content: <>Serving as Editorial Editor for <a href="https://asiahaptics2026.org/" target="_blank" className="text-decoration-none">AsiaHaptics 2026</a>.</> },
-    { date: "2026.07.01", content: <>Serving as Associate Editor for <a href="https://www.nature.com/srep/about/editors" target="_blank" className="text-decoration-none">Scientific Reports</a>.</> },
+    { date: "2026.07.15", content: <>Serving as Associate Editor for <a href="https://asiahaptics2026.org/" target="_blank" className="text-decoration-none">AsiaHaptics 2026</a>.</> },
+    { date: "2026.07.01", content: <>Serving as Editorial Board Member for <a href="https://www.nature.com/srep/about/editors" target="_blank" className="text-decoration-none">Scientific Reports</a>.</> },
     { date: "2026.07.01", content: <>A paper is accepted to <a href="https://www.ubicomp.org/ubicomp-iswc-2026/" target="_blank" className="text-decoration-none">ISWC 2026</a>.</> },
     { date: "2026.05.06", content: <><a href="https://hcitech.org/internship/summer-2026" target="_blank" className="text-decoration-none">I am looking for undergraduate research interns for the summer</a>.</> },
     { date: "2026.05.06", content: <>Serving as an International Program Committee (IPC) for <a href="https://vrst.acm.org/vrst2026/" target="_blank" className="text-decoration-none">VRST 2026</a>.</> },
