@@ -68,7 +68,7 @@ export default function ProfileSidebar() {
                         <Link href="https://www.youtube.com/@HCI_Tech" target="_blank" className="fs-2" style={{ color: '#1260de', transition: 'opacity 0.2s' }} onMouseOver={e => e.currentTarget.style.opacity = '0.7'} onMouseOut={e => e.currentTarget.style.opacity = '1'}>
                             <i className="bi bi-youtube"></i>
                         </Link>
-                        <Link href="https://www.linkedin.com/in/hcidesigner/" target="_blank" className="fs-2" style={{ color: '#1260de', transition: 'opacity 0.2s' }} onMouseOver={e => e.currentTarget.style.opacity = '0.7'} onMouseOut={e => e.currentTarget.style.opacity = '1'}>
+                        <Link href="https://www.linkedin.com/in/sanghoy/" target="_blank" className="fs-2" style={{ color: '#1260de', transition: 'opacity 0.2s' }} onMouseOver={e => e.currentTarget.style.opacity = '0.7'} onMouseOut={e => e.currentTarget.style.opacity = '1'}>
                             <i className="bi bi-linkedin"></i>
                         </Link>
                         <Link href="https://scholar.google.com/citations?user=ejaRQn8AAAAJ&hl=en" target="_blank" className="fs-2" style={{ color: '#1260de', transition: 'opacity 0.2s' }} onMouseOver={e => e.currentTarget.style.opacity = '0.7'} onMouseOut={e => e.currentTarget.style.opacity = '1'}>
